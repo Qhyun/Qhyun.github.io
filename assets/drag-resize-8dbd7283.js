@@ -1,0 +1,1 @@
+import{aK as e,F as s,G as t,a9 as a}from"./index-7159930e.js";const c={},o=a("h1",null,"This is drag-resize",-1),r=[o];function n(_,i){return s(),t("div",null,r)}const l=e(c,[["render",n]]);export{l as default};

@@ -1,0 +1,342 @@
+[
+	{
+		"path": "/home",
+		"name": "home",
+		"icon": "home"
+	},
+	{
+		"path": "/home/analysis",
+		"name": "home-analysis",
+		"parent": "/home"
+	},
+	{
+		"path": "/home/workbench",
+		"name": "home-workbench",
+		"parent": "/home"
+	},
+	{
+		"path": "/permission",
+		"name": "permission",
+		"icon": "key"
+	},
+	{
+		"path": "/permission/page",
+		"name": "permission-page",
+		"parent": "/permission"
+	},
+	{
+		"path": "/permission/button",
+		"name": "permission-button",
+		"parent": "/permission"
+	},
+	{
+		"path": "/aboutview",
+		"name": "about",
+		"icon": "about"
+	},
+	{
+		"path": "/function",
+		"name": "function",
+		"icon": "function"
+	},
+	{
+		"path": "/function/draggable",
+		"name": "function-draggable",
+		"parent": "/function"
+	},
+	{
+		"path": "/function/drag-resize",
+		"name": "function-drag-resize",
+		"parent": "/function"
+	},
+	{
+		"path": "/function/watermark",
+		"name": "function-watermark",
+		"parent": "/function"
+	},
+	{
+		"path": "/function/message",
+		"name": "function-message",
+		"parent": "/function"
+	},
+	{
+		"path": "/function/axios",
+		"name": "function-axios",
+		"parent": "/function"
+	},
+	{
+		"path": "/function/time-ago",
+		"name": "function-time-ago",
+		"parent": "/function"
+	},
+	{
+		"path": "/comp",
+		"name": "component",
+		"icon": "component"
+	},
+	{
+		"path": "/comp/button",
+		"name": "comp-button",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/icon",
+		"name": "comp-icon",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/count-to",
+		"name": "comp-count-to",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/dialog",
+		"name": "comp-dialog",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/loading",
+		"name": "comp-loading",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/seamscroll",
+		"name": "comp-seamscroll",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/virtualscroll",
+		"name": "comp-virtualscroll",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/tree-select",
+		"name": "comp-tree-select",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/select",
+		"name": "comp-select",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/table",
+		"name": "comp-table",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/form",
+		"name": "comp-form",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/echarts",
+		"name": "comp-echarts",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/echarts/bar",
+		"name": "comp-echarts-bar",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/echarts/line",
+		"name": "comp-echarts-line",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/echarts/pie",
+		"name": "comp-echarts-pie",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/echarts/graph",
+		"name": "comp-echarts-graph",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/echarts/map",
+		"name": "comp-echarts-map",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/echarts/other",
+		"name": "comp-echarts-other",
+		"parent": "/comp/echarts"
+	},
+	{
+		"path": "/comp/editor",
+		"name": "comp-editor",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/markdown",
+		"name": "comp-markdown",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/json",
+		"name": "comp-json",
+		"parent": "/comp"
+	},
+	{
+		"path": "/comp/photograph",
+		"name": "comp-photograph",
+		"parent": "/comp"
+	},
+	{
+		"path": "/page",
+		"name": "page",
+		"icon": "page"
+	},
+	{
+		"path": "/page/403",
+		"name": "page-403",
+		"parent": "/page"
+	},
+	{
+		"path": "/page/404",
+		"name": "page-404",
+		"parent": "/page"
+	},
+	{
+		"path": "/page/500",
+		"name": "page-500",
+		"parent": "/page"
+	},
+	{
+		"path": "/page/success",
+		"name": "page-success",
+		"parent": "/page"
+	},
+	{
+		"path": "/page/error",
+		"name": "page-error",
+		"parent": "/page"
+	},
+	{
+		"path": "/page/list",
+		"name": "page-list",
+		"parent": "/page"
+	},
+	{
+		"path": "/menu",
+		"name": "menu",
+		"icon": "router"
+	},
+	{
+		"path": "/menu/menu1",
+		"name": "menu-menu1",
+		"parent": "/menu"
+	},
+	{
+		"path": "/menu/menu2",
+		"name": "menu-menu2",
+		"parent": "/menu"
+	},
+	{
+		"path": "/menu/menu1/menu1-1",
+		"name": "menu-menu1-menu1-1",
+		"parent": "/menu/menu1"
+	},
+	{
+		"path": "/menu/menu1/menu1-2",
+		"name": "menu-menu1-menu1-2",
+		"parent": "/menu/menu1"
+	},
+	{
+		"path": "/menu/menu1/menu1-1/menu1-1-1",
+		"name": "menu-menu1-menu1-1-menu1-1-1",
+		"parent": "/menu/menu1/menu1-1"
+	},
+	{
+		"path": "/log",
+		"name": "log",
+		"icon": "log"
+	},
+	{
+		"path": "/log/operation-log",
+		"name": "operation-log",
+		"parent": "/log"
+	},
+	{
+		"path": "/log/error-log",
+		"name": "error-log",
+		"parent": "/log"
+	},
+	{
+		"path": "/log/login-log",
+		"name": "login-log",
+		"parent": "/log"
+	},
+	{
+		"path": "/system",
+		"name": "system",
+		"icon": "system"
+	},
+	{
+		"path": "/system/account",
+		"name": "system-account",
+		"parent": "/system"
+	},
+	{
+		"path": "/system/role",
+		"name": "system-role",
+		"parent": "/system"
+	},
+	{
+		"path": "/system/department",
+		"name": "system-department",
+		"parent": "/system"
+	},
+	{
+		"path": "/system/menu",
+		"name": "system-menu",
+		"parent": "/system"
+	},
+	{
+		"path": "/system/api",
+		"name": "system-api",
+		"parent": "/system"
+	},
+	{
+		"path": "/system/dictionary",
+		"name": "system-dictionary",
+		"parent": "/system"
+	},
+	{
+		"path": "/map",
+		"name": "map",
+		"icon": "map"
+	},
+	{
+		"path": "/test",
+		"name": "test",
+		"icon": "test"
+	},
+	{
+		"path": "/test/page1",
+		"name": "test-page1",
+		"parent": "/test"
+	},
+	{
+		"path": "/test/page2",
+		"name": "test-page2",
+		"parent": "/test"
+	},
+	{
+		"path": "/test/subs",
+		"name": "test-subs",
+		"parent": "/test"
+	},
+	{
+		"path": "/test/subs/page1",
+		"name": "test-subs-page1",
+		"parent": "/test/subs"
+	},
+	{
+		"path": "/test/subs/page2",
+		"name": "test-subs-page2",
+		"parent": "/test/subs"
+	}
+]

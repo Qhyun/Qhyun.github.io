@@ -1,0 +1,1 @@
+import{aK as e,F as t,G as a,a9 as s}from"./index-7159930e.js";const r={},c=s("h1",null,"This is watermark",-1),o=[c];function n(_,i){return t(),a("div",null,o)}const d=e(r,[["render",n]]);export{d as default};

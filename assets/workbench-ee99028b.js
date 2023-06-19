@@ -1,0 +1,1 @@
+import{aK as e,F as o,G as c,a9 as s}from"./index-7159930e.js";const t={},n={class:"workbench"},a=s("div",{class:"todo-list"},"待办事项",-1),_=s("div",{class:"container"},"未办事项",-1),r=[a,_];function d(i,l){return o(),c("div",n,r)}const f=e(t,[["render",d]]);export{f as default};

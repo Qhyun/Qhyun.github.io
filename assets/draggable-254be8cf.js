@@ -1,0 +1,1 @@
+import{aK as e,F as a,G as s,a9 as t}from"./index-7159930e.js";const c={},o=t("h1",null,"This is draggable",-1),n=[o];function r(_,l){return a(),s("div",null,n)}const i=e(c,[["render",r]]);export{i as default};

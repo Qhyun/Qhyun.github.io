@@ -1,0 +1,1 @@
+import{aK as e,F as s,G as o,a9 as t}from"./index-7159930e.js";const a={},c=t("h1",null,"This is axios",-1),n=[c];function r(_,i){return s(),o("div",null,n)}const d=e(a,[["render",r]]);export{d as default};
