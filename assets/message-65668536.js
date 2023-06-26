@@ -1,1 +1,0 @@
-import{aK as e,F as s,G as t,a9 as a}from"./index-7159930e.js";const c={},o=a("h1",null,"This is message",-1),n=[o];function r(_,i){return s(),t("div",null,n)}const d=e(c,[["render",r]]);export{d as default};

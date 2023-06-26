@@ -20,6 +20,11 @@
 		"icon": "key"
 	},
 	{
+		"path": "/permission/page",
+		"name": "permission-page",
+		"parent": "/permission"
+	},
+	{
 		"path": "/permission/button",
 		"name": "permission-button",
 		"parent": "/permission"

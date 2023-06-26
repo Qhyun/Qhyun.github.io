@@ -1,0 +1,1 @@
+import{_ as e,o,f as t,g as s}from"./index-135bdec9.js";const c={},n=s("h1",null,"This is time-ago",-1),_=[n];function a(r,i){return o(),t("div",null,_)}const d=e(c,[["render",a]]);export{d as default};
